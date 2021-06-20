@@ -1,0 +1,9 @@
+.*
+!.gitignore
+*.sqlite
+mehdi_lib/assets
+mehdi_lib/report.html
+mehdi_lib/venv
+*.db
+test.py
+*__pycache__*
